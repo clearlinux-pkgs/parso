@@ -1,0 +1,10 @@
+# This file contains recursive sources that require this package
+bash_kernel
+ipykernel
+ipython
+ipython-sql
+jedi
+jedi-vim
+jupyter
+jupyter-notebook-gist
+notebook
