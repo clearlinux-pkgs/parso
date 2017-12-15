@@ -4,12 +4,12 @@
 #
 Name     : parso
 Version  : 0.1.1
-Release  : 5
+Release  : 6
 URL      : http://pypi.debian.net/parso/parso-0.1.1.tar.gz
 Source0  : http://pypi.debian.net/parso/parso-0.1.1.tar.gz
 Summary  : A Python Parser
 Group    : Development/Tools
-License  : BSD-3-Clause MIT
+License  : MIT
 Requires: parso-legacypython
 Requires: parso-python3
 Requires: parso-python
@@ -64,12 +64,12 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1511116190
+export SOURCE_DATE_EPOCH=1513312501
 python2 setup.py build -b py2
 python3 setup.py build -b py3
 
 %install
-export SOURCE_DATE_EPOCH=1511116190
+export SOURCE_DATE_EPOCH=1513312501
 rm -rf %{buildroot}
 python2 -tt setup.py build -b py2 install --root=%{buildroot} --force
 python3 -tt setup.py build -b py3 install --root=%{buildroot} --force
