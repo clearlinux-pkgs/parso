@@ -7,4 +7,6 @@ jedi
 jedi-vim
 jupyter
 jupyter-notebook-gist
+jupyterlab
+jupyterlab_launcher
 notebook
