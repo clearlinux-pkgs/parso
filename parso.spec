@@ -4,7 +4,7 @@
 #
 Name     : parso
 Version  : 0.3.0
-Release  : 18
+Release  : 19
 URL      : http://pypi.debian.net/parso/parso-0.3.0.tar.gz
 Source0  : http://pypi.debian.net/parso/parso-0.3.0.tar.gz
 Summary  : A Python Parser
