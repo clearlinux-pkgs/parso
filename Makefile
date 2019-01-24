@@ -1,5 +1,5 @@
 PKG_NAME := parso
-URL = https://files.pythonhosted.org/packages/46/31/60de7c9cbb97cac56b193a5b61a1fd4d21df84843a570b370ec34781316b/parso-0.3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/22/50/fa4ffb9b7e0b52f0bea19e5fcc9759eda369efa43a4e4a534a5cf9a00e71/parso-0.3.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
