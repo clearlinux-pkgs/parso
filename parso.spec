@@ -4,7 +4,7 @@
 #
 Name     : parso
 Version  : 0.3.4
-Release  : 24
+Release  : 25
 URL      : https://files.pythonhosted.org/packages/01/70/d9fa1a10aed70c192815aac7fd3eb38ef49aa5ab9cb36129ae22c8ecbf1f/parso-0.3.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/01/70/d9fa1a10aed70c192815aac7fd3eb38ef49aa5ab9cb36129ae22c8ecbf1f/parso-0.3.4.tar.gz
 Summary  : A Python Parser
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1550020519
+export SOURCE_DATE_EPOCH=1550023596
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
