@@ -4,7 +4,7 @@
 #
 Name     : parso
 Version  : 0.7.0
-Release  : 39
+Release  : 40
 URL      : https://files.pythonhosted.org/packages/fe/24/c30eb4be8a24b965cfd6e2e6b41180131789b44042112a16f9eb10c80f6e/parso-0.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fe/24/c30eb4be8a24b965cfd6e2e6b41180131789b44042112a16f9eb10c80f6e/parso-0.7.0.tar.gz
 Summary  : A Python Parser
