@@ -4,7 +4,7 @@
 #
 Name     : parso
 Version  : 0.8.2
-Release  : 50
+Release  : 51
 URL      : https://files.pythonhosted.org/packages/5e/61/d119e2683138a934550e47fc8ec023eb7f11b194883e9085dca3af5d4951/parso-0.8.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5e/61/d119e2683138a934550e47fc8ec023eb7f11b194883e9085dca3af5d4951/parso-0.8.2.tar.gz
 Summary  : A Python Parser
